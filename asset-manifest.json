@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Natours-CSS-Grids/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Natours-CSS-Grids/static/js/main.d138867f.chunk.js",
+    "main.js.map": "/Natours-CSS-Grids/static/js/main.d138867f.chunk.js.map",
+    "runtime-main.js": "/Natours-CSS-Grids/static/js/runtime-main.a27b4225.js",
+    "runtime-main.js.map": "/Natours-CSS-Grids/static/js/runtime-main.a27b4225.js.map",
+    "static/js/2.bc492fdb.chunk.js": "/Natours-CSS-Grids/static/js/2.bc492fdb.chunk.js",
+    "static/js/2.bc492fdb.chunk.js.map": "/Natours-CSS-Grids/static/js/2.bc492fdb.chunk.js.map",
+    "index.html": "/Natours-CSS-Grids/index.html",
+    "precache-manifest.eea2d0e0735fcad858d6e12ec8f94508.js": "/Natours-CSS-Grids/precache-manifest.eea2d0e0735fcad858d6e12ec8f94508.js",
+    "service-worker.js": "/Natours-CSS-Grids/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Natours-CSS-Grids/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bc492fdb.chunk.js.LICENSE.txt": "/Natours-CSS-Grids/static/js/2.bc492fdb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Natours-CSS-Grids/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27b4225.js",
+    "static/js/2.bc492fdb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d138867f.chunk.js"
+  ]
+}
